@@ -1,0 +1,13 @@
+{
+  "name": "jfrog-test",
+  "version": "1.0.103",
+  "description": "jfrog-test",
+  "main": "src/index.js",
+  "author": "Eugene Rubanov",
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "publishConfig": {
+    "registry": "replace-me"
+  }
+}
+
